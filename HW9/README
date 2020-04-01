@@ -1,1 +1,1 @@
-
+PieceWorker extends the class Employee from HW6. PayrollSystemTest tests Employee class and all classes extended from it.
