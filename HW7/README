@@ -1,0 +1,2 @@
+CommissionEmployee extends the class Employee from LAB6. BasePlusCommissionEmployee
+extends the class CommissionEmployee.
